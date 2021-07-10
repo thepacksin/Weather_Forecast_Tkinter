@@ -8,7 +8,7 @@ App.geometry("300x30")
 App.configure(background="blue")
 
 url='http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
-api_key='cf2c4cf5c98e45a47635fbe7266bc6f6'
+api_key='##########################'
 name=str(input().rstrip())
 city=name
 
